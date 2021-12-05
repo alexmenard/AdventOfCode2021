@@ -3,7 +3,7 @@
 #Advent Of Code 2021 - Day #1 - Part #1
 #Source : https://adventofcode.com/2021/day/1
 
-$file            = '../inputs/input_day1.txt';
+$file            = './input/input_day1.txt';
 $measurements    = 0;
 $measurements_p2 = 0;
 $last_depth      = 0;
